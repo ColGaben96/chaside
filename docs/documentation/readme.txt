@@ -17,13 +17,13 @@ Open CMD or PowerShell and do:
 
 cd location_of_CHASIDE\CHASIDE\release\
 
-java -jar loquesea.jar
+java -jar chaside.jar
 
 via GUI:
 
 Find the folder of CHASIDE
 Find release folder
-double click loquesea.jar
+double click chaside.jar
 
 LINUX AND MACOS
 
@@ -31,7 +31,7 @@ via console:
 
 cd location_of_CHASIDE\CHASIDE\release\
 
-java -jar \loquesea.jar
+java -jar chaside.jar
 
 via GUI:
 
